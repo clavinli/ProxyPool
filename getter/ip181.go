@@ -3,7 +3,7 @@ package getter
 import (
 	"log"
 
-	"github.com/henson/ProxyPool/models"
+	"github.com/clavinli/ProxyPool/models"
 )
 
 // IP181 get ip from ip181.com

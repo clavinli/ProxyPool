@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	"github.com/PuerkitoBio/goquery"
-	"github.com/henson/ProxyPool/models"
+	"github.com/clavinli/ProxyPool/models"
 	"github.com/parnurzeal/gorequest"
 )
 
