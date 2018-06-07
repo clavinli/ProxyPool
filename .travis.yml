@@ -1,10 +1,10 @@
 language: go
 go:
-  - 1.7.x
+  - 1.10.x
   - master
 notifications:
   recipients:
-    - henson.lu@gmail.com
+    - leezj1989@163.com
   email:
     on_success: change
     on_failure: always
